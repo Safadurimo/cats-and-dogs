@@ -1,2 +1,13 @@
+# your personal cookies in order to acess your kaggle account
 cookies.txt
+
+# downloaded data of cats and dogs
 data
+
+# calculated results
+file_list.pkl
+y.npy
+F1.npy
+F2.npy
+F3.npy
+G.npy

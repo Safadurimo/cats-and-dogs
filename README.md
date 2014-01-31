@@ -1,16 +1,19 @@
 cats-and-dogs
 =============
 
-Reproduction of results from the paper "Machine Learning Attacks Against the Asirra CAPTCHA" by Philippe Golle
+Reproduction of results from the paper "Machine Learning Attacks Against the Asirra CAPTCHA" by Philippe Golle.
 
-In order to reproduce to run this software you will need:
+You can see the results as a static html page at http://nbviewer.ipython.org/github/Safadurimo/cats-and-dogs/blob/master/catsdogs.ipynb. 
 
-Python 2.7.3
-sklearn 0.14.1
-scipy 0.10.1
-numpy 1.8.1
-ipython
-mogrify
+In order to run this software you will need:
+
+* A Kaggle account
+* Python 2.7.3
+* sklearn 0.14.1
+* scipy 0.10.1
+* numpy 1.8.1
+* ipython
+* mogrify
 
 
 Use the following steps to reproduce the results:
