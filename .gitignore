@@ -6,6 +6,7 @@ data
 
 # calculated results
 file_list.pkl
+textures.npy
 y.npy
 F1.npy
 F2.npy
